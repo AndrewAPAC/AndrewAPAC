@@ -7,8 +7,8 @@
 - 📊 Experience with databases, monitoring systems, and operational tooling (and much more)
 
 ## Featured Project
-**[alx-common](https://github.com/AndrewAPAC/alx-common)** - A comprehensive Python framework for infrastructure automation, monitoring, and reporting. Designed to standardize common development tasks and eliminate code duplication in production environments.
-**[freshtomato-grafana](https://github.com/AndrewAPAC/freshtomato-grafana)** -  Scripts to display metrics from routers running FreshTomato on Grafana
+* **[alx-common](https://github.com/AndrewAPAC/alx-common)** - A comprehensive Python framework for infrastructure automation, monitoring, and reporting. Designed to standardize common development tasks and eliminate code duplication in production environments.
+* **[freshtomato-grafana](https://github.com/AndrewAPAC/freshtomato-grafana)** -  Scripts to display metrics from routers running FreshTomato on Grafana
 
 ## Tech Stack
 - **Languages:** Python, Perl, Ruby, Shell
