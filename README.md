@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Andrew 👋
 
-<!--
-**AndrewAPAC/AndrewAPAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 Based in Indonesia 
+- 🐍 Python developer focused on infrastructure automation
+- 🔧 Building tools for monitoring, reporting, and DevOps workflows
+- 📊 Experience with databases, monitoring systems, and operational tooling (and much more)
 
-Here are some ideas to get you started:
+## Featured Project
+**[alx-common](https://github.com/AndrewAPAC/alx-common)** - A comprehensive Python framework for infrastructure automation, monitoring, and reporting. Designed to standardize common development tasks and eliminate code duplication in production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Python, Perl, Ruby, Shell
+- **Databases:** MySQL, PostgreSQL, SQLite, MariaDB
+- **Tools:** Sensu, Grafana, ITRS Geneos, Prometheus
+- **Focus Areas:** Infrastructure automation, monitoring pipelines, operational tooling
+
+## Connect
+- 📧 a.lister.hk at gmail.com
+- 💼 https://www.linkedin.com/in/andrewlisterapac
