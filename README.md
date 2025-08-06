@@ -1,8 +1,8 @@
 # Hi there, I'm Andrew 👋
 
 ## About Me
-- 🌍 Based in Indonesia 
-- 🐍 Python developer focused on infrastructure automation
+- 🌍 Based in Indonesia (GMT+8)
+- 🐍 Python developer focused on infrastructure automation and monitoring 
 - 🔧 Building tools for monitoring, reporting, and DevOps workflows
 - 📊 Experience with databases, monitoring systems, and operational tooling (and much more)
 
@@ -14,7 +14,10 @@
 - **Databases:** MySQL, PostgreSQL, SQLite, MariaDB
 - **Tools:** Sensu, Grafana, ITRS Geneos, Prometheus
 - **Focus Areas:** Infrastructure automation, monitoring pipelines, operational tooling
+- **Operating Systems:** Linux (30+ years), Solaris, Windows (prefer not though)
 
 ## Connect
 - 📧 a.lister.hk at gmail.com
 - 💼 https://www.linkedin.com/in/andrewlisterapac
+
+
