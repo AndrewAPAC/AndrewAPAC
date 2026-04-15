@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew 👋
 
 ## About Me
-- 🌍 Based in Indonesia (GMT+8)
+- 🌍 Based in Bali, Indonesia (GMT+8)
 - 🐍 Python developer focused on infrastructure automation and monitoring 
 - 🔧 Building tools for monitoring, reporting, and DevOps workflows
 - 📊 Experience with databases, monitoring systems, and operational tooling (and much more)
